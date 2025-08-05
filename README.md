@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [survey platform](https://survey.cioafrica.co/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-coral-delta.vercel.app/](https://portfolio-site-coral-delta.vercel.app/)
-
 - 💬 Ask me about **typescript, react, next.js**
 
 - 📫 How to reach me **johnsonmwakazi31@gmail.com**
