@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **typescript, react, next.js**
 
-- 📫 How to reach me **johnsonmwakazi31@gmail.com**
+- 📫 How to reach me **johnsonmwanjila23@gmail.com**
 
 - ⚡ Fun fact **I once debugged a tricky issue while in line at the supermarket, problem-solving doesn’t clock out!**
 
