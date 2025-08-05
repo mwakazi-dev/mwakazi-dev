@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **johnsonmwakazi31@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kKBKs3w3Z8W58OfTGMAV00Y_CWYplr0kpD5NnN7RMww/edit?usp=sharing](https://docs.google.com/document/d/1kKBKs3w3Z8W58OfTGMAV00Y_CWYplr0kpD5NnN7RMww/edit?usp=sharing)
-
 - ⚡ Fun fact **I once debugged a tricky issue while in line at the supermarket, problem-solving doesn’t clock out!**
 
 <h3 align="left">Connect with me:</h3>
