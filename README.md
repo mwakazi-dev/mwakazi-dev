@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-site-coral-delta.vercel.app/](https://portfolio-site-coral-delta.vercel.app/)
 
-- 📝 I regularly write articles on [https://portfolio-site-coral-delta.vercel.app/posts](https://portfolio-site-coral-delta.vercel.app/posts)
-
 - 💬 Ask me about **typescript, react, next.js**
 
 - 📫 How to reach me **johnsonmwakazi31@gmail.com**
