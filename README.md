@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnsonmwa74194" target="blank"><img src="https://img.shields.io/twitter/follow/johnsonmwa74194?logo=twitter&style=for-the-badge" alt="johnsonmwa74194" /></a> </p>
 
-- 🔭 I’m currently working on [survey platform](https://survey.cioafrica.co/)
+- 🔭 I’m currently working on [survey platform]([https://survey.cioafrica.co/](https://dha.go.ke/))
 
 - 💬 Ask me about **typescript, react, next.js**
 
