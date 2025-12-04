@@ -17,6 +17,6 @@ I started off building simple web pages — learning HTML, CSS, and JavaScript, 
 
 ---
 
-🧪 Lately into...
+🧪 **Lately into...**
 
 These days you'll find me deep into modern web architectures, AI, and prompt engineering, crafting seamless applications using Next.js, TypeScript, React Native, and LLMs. Whether it's building a personal project aimed at solving real challenges across Africa or optimizing performance for large-scale applications — I'm always building something fun and practical.
