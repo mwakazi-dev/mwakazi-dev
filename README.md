@@ -1,4 +1,4 @@
-Hey there 👋🏾
+## Hey there 👋🏾
 
 The name is Johnson Mwakazi — a software engineer, web and mobile developer, and lifelong learner based in Nairobi, Kenya 🇰🇪.
 
