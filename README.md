@@ -49,3 +49,9 @@ These days you'll find me deep into modern web architectures, AI, and prompt eng
 * Git, Docker 🐳, CI/CD, GitHub Actions
 * Cypress, Jest, React Testing Library
 * AWS ☁️, Vercel, Firebase
+
+---
+
+💬 **Fun fact**
+
+Some of my coolest projects are private repos – just ask nicely and I'll share 😄 Also, don't forget to ⭐ star the ones you like — it keeps me going!
