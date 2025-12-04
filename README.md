@@ -1,8 +1,5 @@
-
-Got it! Here's your updated bio with Angular removed:
+Hey there 👋🏾
+The name is Johnson Mwakazi — a software engineer, web developer, and lifelong learner based in Nairobi, Kenya 🇰🇪.
+With 5+ years of experience in the world of web development and software engineering, I have grown from building responsive interfaces to leading high-performance web applications across fintech, e-commerce, and startups.
 
 ---
-
-Hey there 👋🏾
-
-The name is Johnson Mwakazi — an experienced software engineer with 5 years of commercial experience building scalable, high-performance web applications with a strong emphasis on code quality, maintainability, and security. Specialized in JavaScript, TypeScript, React, Next.js, and React Native. Skilled in cross-domain communication, server-side rendering (SSR), authentication flows, and optimizing frontend performance. Proven ability to collaborate in cross-functional teams and lead frontend architecture initiatives. Eager to contribute to dynamic, product-focused teams while continuously expanding technical expertise across modern frontend and backend technologies.
