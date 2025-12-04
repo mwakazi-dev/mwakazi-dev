@@ -28,3 +28,24 @@ These days you'll find me deep into modern web architectures, AI, and prompt eng
 * Building with purpose ⚙️
 * Lifting others while I grow 🧑🏾‍🏫
 * Experimenting like a developer, shipping like an engineer 🚀
+
+---
+
+🛠️ **My Current Stack & Tools**
+
+💻 **Frontend Development**
+* JavaScript, TypeScript, React ⚛️, Next.js, React Native 📱
+* Tailwind CSS 🎨, Ant Design, Chakra UI, Framer Motion
+* Storybook 📚
+
+🔧 **Backend & Database**
+* Node.js, Express, Mongoose, Prisma
+* PostgreSQL 🐘, Firebase 🔥, Supabase
+
+🤖 **AI & Modern Tools**
+* Prompt Engineering 🧠, LLMs
+
+⚙️ **DevOps & Testing**
+* Git, Docker 🐳, CI/CD, GitHub Actions
+* Cypress, Jest, React Testing Library
+* AWS ☁️, Vercel, Firebase
