@@ -1,8 +1,8 @@
-## Hey there 👋🏾
+## Hey there 👋
 
-The name is Johnson Mwakazi — a software engineer, web and mobile developer, and lifelong learner based in Nairobi, Kenya 🇰🇪.
+I'm Johnson Mwakazi — a lead software engineer and web/mobile developer based in Nairobi, Kenya 🇰🇪.
 
-With 5+ years of experience in the world of web and mobile development, I have grown from building responsive interfaces to leading high-performance applications across fintech, e-commerce, and startups.
+With 5+ years across fintech, e-commerce, and startups, I lead engineering on a cross-border payments platform serving 5,000+ users across 6 African markets — and I've founded two live SaaS products: Seloops (sales engagement) and PesaRecon (M-Pesa reconciliation).
 
 ---
 
