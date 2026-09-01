@@ -2,7 +2,7 @@
 
 I'm Johnson Mwakazi — a **Frontend Engineer** (React • Next.js • React Native • TypeScript) based in Nairobi, Kenya 🇰🇪.
 
-With 5+ years building web and mobile products across fintech, e-commerce and startups, I've led frontend on a cross-border payments platform serving 5,000+ users across 6 African markets, and shipped two live SaaS products of my own — **Seloops** (sales engagement) and **PesaRecon** (M-Pesa reconciliation).
+With 5+ years building web and mobile products across fintech, e-commerce and startups, I specialise in turning complex designs and requirements into clean, performant, accessible interfaces.
 
-I care about clean, performant, accessible interfaces — turning complex designs and requirements into seamless user experiences.
+Always building something practical — and focused on frontend code that's fast, reliable, and a pleasure to use.
 </parameter>
