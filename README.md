@@ -97,13 +97,16 @@
 
 ### 📊 GitHub pulse
 
+<!-- Official github-readme-stats.vercel.app is often 503. Mirror used below. -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mwakazi-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0d6e6e&icon_color=1a9a8a&text_color=8b9aab&bg_color=00000000&ring_color=0d6e6e" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakazi-dev&layout=compact&theme=transparent&hide_border=true&title_color=0d6e6e&text_color=8b9aab&bg_color=00000000" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api?username=mwakazi-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117&ring_color=0d6e6e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=mwakazi-dev&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwakazi-dev&theme=dark&hide_border=true&ring=0d6e6e&fire=1a9a8a&currStreakLabel=0d6e6e" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=mwakazi-dev&theme=tokyonight&hide_border=true&ring=0d6e6e&fire=2dd4bf&currStreakLabel=2dd4bf&background=0d1117" alt="GitHub streak" />
 </div>
 
 ---
@@ -125,6 +128,7 @@
 
   <a href="https://www.linkedin.com/in/johnson-mwakazi/">LinkedIn</a> ·
   <a href="mailto:johnsonmwakazi08@gmail.com">Email</a> ·
-  <a href="https://pesarecon.com">PesaRecon</a>
+  <a href="https://pesarecon.com">PesaRecon</a> ·
+  <a href="https://github.com/mwakazi-dev">GitHub</a>
 
 </div>
