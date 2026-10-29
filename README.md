@@ -7,12 +7,12 @@
 
   <!-- Typing headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=28&duration=3200&pause=900&color=0D6E6E&center=true&vCenter=true&width=720&lines=Johnson+Mwakazi;Remote+Solutions+%2F+Forward+Deployed;Fintech+%C2%B7+Payments+%C2%B7+Web+%2B+Mobile;Nairobi+(UTC%2B3)+%C2%B7+EU%2FUK+remote" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=28&duration=3200&pause=900&color=0D6E6E&center=true&vCenter=true&width=720&lines=Johnson+Mwakazi;Software+Engineer+%7C+Forward+Deployed;Web+%C2%B7+Mobile+%C2%B7+Integrations;Nairobi+(UTC%2B3)+%C2%B7+EU%2FUK+remote" alt="Typing headline" />
   </a>
 
   <p>
-    <strong>I help fintech &amp; SaaS teams ship products that move real money</strong><br/>
-    Web · Mobile · Integrations · Stakeholder-facing delivery
+    <strong>I help product &amp; SaaS teams ship what customers actually use</strong><br/>
+    Web · Mobile · Integrations · delivery with stakeholders
   </p>
 
   <p>
@@ -31,16 +31,16 @@
 ### ⚡ What I do
 
 ```text
-┌─ Solutions-facing engineer ─────────────────────────────────────┐
-│  Turn messy product requirements into shipped payment flows     │
-│  Catch money-movement edge cases before users feel them         │
-│  Embed with teams · mentor juniors · review AI-assisted code    │
+┌─ Software Engineer / Forward Deployed style ────────────────────┐
+│  Turn messy requirements into shipped product                   │
+│  Integrations · failure/retry thinking · multi tenant habits    │
+│  Embed with teams · mentor juniors · review AI assisted code    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-- **Now:** Lemonade Payments — transfer, paybill/till, cross-border flows (React Native + Next.js)
-- **Before:** 3 years fully remote with a Canada-based marketplace (timezone-proof delivery from Nairobi)
-- **Open to:** Remote Solutions / Forward Deployed / Implementation / Customer Engineer roles · EU/UK overlap
+- **Now:** Lemonade Payments: transfer, paybill/till, cross border flows (React Native + Next.js)
+- **Before:** 3 years fully remote with a marketplace based in Canada (timezone proof delivery from Nairobi)
+- **Open to:** Software Engineer / Forward Deployed / Implementation / Customer Engineer · across SaaS & product · EU/UK overlap
 
 ---
 
@@ -72,17 +72,17 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://pesarecon.com">PesaRecon</a> · Live</h3>
-      <p>M-Pesa reconciliation for Kenyan SMEs. Matches statements to books so businesses stop losing money to unreconciled payments.</p>
+      <p>Reconciliation product for Kenyan SMEs. Matches M-Pesa statements to books. Solo end to end product ownership.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Fintech-0d6e6e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Solo_build-0d6e6e?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://seloops.com">Seloops</a> · Live</h3>
-      <p>AI-powered sales follow-up automation (email / WhatsApp). Solo end-to-end product loop — not just UI.</p>
+      <p>AI powered sales follow up automation (email / WhatsApp). Solo end to end product loop, not just UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -117,14 +117,14 @@
 |---|---|
 | **Base** | Nairobi, Kenya · UTC+3 |
 | **Overlap** | Strong EU / UK business hours |
-| **Proof** | 3 years remote with a Canada-based company |
-| **Open to** | Full-time remote or contract · Worldwide |
+| **Proof** | 3 years remote with a Canada based company |
+| **Open to** | Full time remote or contract · Worldwide · cross industry |
 
 ---
 
 <div align="center">
 
-  ⭐️ From [mwakazi-dev](https://github.com/mwakazi-dev) · Let’s ship something that moves money safely
+  ⭐️ From [mwakazi-dev](https://github.com/mwakazi-dev) · Let’s ship something customers actually use
 
   <a href="https://www.linkedin.com/in/johnson-mwakazi/">LinkedIn</a> ·
   <a href="mailto:johnsonmwakazi08@gmail.com">Email</a> ·
