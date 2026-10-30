@@ -7,12 +7,12 @@
 
   <!-- Typing headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=28&duration=3200&pause=900&color=0D6E6E&center=true&vCenter=true&width=720&lines=Johnson+Mwakazi;Software+Engineer+%7C+Forward+Deployed;Web+%C2%B7+Mobile+%C2%B7+Integrations;Nairobi+(UTC%2B3)+%C2%B7+EU%2FUK+remote" alt="Typing headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=28&duration=3200&pause=900&color=0D6E6E&center=true&vCenter=true&width=720&lines=Johnson+Mwakazi;Software+Engineer+%7C+Full+Stack;Web+%C2%B7+Mobile+%C2%B7+Integrations;Nairobi+(UTC%2B3)+%C2%B7+EU%2FUK+remote" alt="Typing headline" />
   </a>
 
   <p>
     <strong>I help product &amp; SaaS teams ship what customers actually use</strong><br/>
-    Web · Mobile · Integrations · delivery with stakeholders
+    Web · Mobile · Integrations · end to end ownership
   </p>
 
   <p>
@@ -31,16 +31,16 @@
 ### ⚡ What I do
 
 ```text
-┌─ Software Engineer / Forward Deployed style ────────────────────┐
+┌─ Software Engineer / Full Stack ────────────────────────────────┐
 │  Turn messy requirements into shipped product                   │
 │  Integrations · failure/retry thinking · multi tenant habits    │
-│  Embed with teams · mentor juniors · review AI assisted code    │
+│  Own features end to end · mentor juniors · review AI code      │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 - **Now:** Lemonade Payments: transfer, paybill/till, cross border flows (React Native + Next.js)
 - **Before:** 3 years fully remote with a marketplace based in Canada (timezone proof delivery from Nairobi)
-- **Open to:** Software Engineer / Forward Deployed / Implementation / Customer Engineer · across SaaS & product · EU/UK overlap
+- **Open to:** Software Engineer / Full Stack · across SaaS & product · EU/UK overlap
 
 ---
 
